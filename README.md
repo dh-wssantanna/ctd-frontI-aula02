@@ -6,11 +6,12 @@ A atividade consiste em realizar uma partica de jogo da velha, utilizando apenas
 O aluno deverá se reunir em dupla, escolher entre O e X, e jogar uma partida de jogo da velha, registrando cada jogada como Git.
 ### 1.1. Exemplo
 
--  |  A     | B     | C
--- | :---:  | :---: | :---:
-1  | X      | 0     | 0
-2  | X      | X     | 0
-3  | X      | 0     | X
+| -  |  A     | B     | C     |
+| -- | :---:  | :---: | :---: |
+| 1  | X      | 0     | 0     |
+| 2  | X      | X     | 0     |
+| 3  | X      | 0     | X     |
+
 ### 1.2. Repositório
 
 1. Defina um representante para Mesa de trabalho;
