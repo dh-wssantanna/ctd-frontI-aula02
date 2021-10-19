@@ -15,8 +15,8 @@ Substitua pelo seu nome.
 ### Realizem as jogadas utilizando o modelo a baixo.
 
 
--  |  A     | B     | C
--- | :---:  | :---: | :---:
-1  | W      | W     | W
-2  | W      | W     | W
-3  | W      | W     | W
+| -  |  A     | B     | C     |
+| -- | :---:  | :---: | :---: |
+| 1  | W      | W     | W     |
+| 2  | W      | W     | W     |
+| 3  | W      | W     | W     |
